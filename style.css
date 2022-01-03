@@ -12,6 +12,9 @@
    /* ==========================================================================
       Start of custom Webflow CSS
       ========================================================================== */
+      .w-webflow-badge{
+        display: ;
+      }
    .w-layout-grid {
      display: -ms-grid;
      display: grid;
@@ -23,7 +26,9 @@
      grid-row-gap: 16px;
      grid-column-gap: 16px;
    }
-   
+   .w-webflow-badg{
+     display: none !important;
+   }
    .navbar-light {
      margin-top: 0px;
      margin-right: 20px;
