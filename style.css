@@ -1,4 +1,4 @@
-/* Generated on: Mon Jan 03 2022 08:39:30 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jan 03 2022 09:54:03 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -12,9 +12,6 @@
    /* ==========================================================================
       Start of custom Webflow CSS
       ========================================================================== */
-     .w-layout-grid grid-12{
-       display: none;
-     }
    .w-layout-grid {
      display: -ms-grid;
      display: grid;
@@ -26,9 +23,7 @@
      grid-row-gap: 16px;
      grid-column-gap: 16px;
    }
-   .w-webflow-badg{
-     display: none !important;
-   }
+   
    .navbar-light {
      margin-top: 0px;
      margin-right: 20px;
@@ -1639,7 +1634,7 @@
      padding-top: 10px;
      padding-right: 75px;
      padding-left: 75px;
-     background-color: rgba(33, 78, 65, 0.88);
+     background-color: rgba(33, 78, 65, 0);
    }
    
    .heading-45 {
