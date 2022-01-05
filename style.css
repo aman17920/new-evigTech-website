@@ -1,4 +1,4 @@
-/* Generated on: Wed Jan 05 2022 07:08:40 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Jan 05 2022 07:17:45 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -4305,7 +4305,7 @@
        -webkit-align-items: center;
        -ms-flex-align: center;
        align-items: center;
-       background-color: rgba(29, 78, 66, 0.41);
+       background-color: rgba(39, 95, 82, 0.99);
      }
    
      .button-13 {
@@ -4314,6 +4314,10 @@
        display: -ms-flexbox;
        display: flex;
        margin-left: 20px;
+     }
+   
+     .nav-link-5 {
+       color: #5d9285;
      }
    
      .navbar-3 {
