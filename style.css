@@ -1,4 +1,4 @@
-/* Generated on: Wed Jan 05 2022 06:43:37 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Jan 05 2022 07:08:40 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1827,10 +1827,10 @@
      margin-left: 89px;
      grid-column-gap: 32px;
      grid-row-gap: 42px;
-     -ms-grid-columns: 3.25fr 3.25fr;
-     grid-template-columns: 3.25fr 3.25fr;
-     -ms-grid-rows: auto auto auto auto;
-     grid-template-rows: auto auto auto auto;
+     -ms-grid-columns: 3.25fr 3.25fr 3.25fr;
+     grid-template-columns: 3.25fr 3.25fr 3.25fr;
+     -ms-grid-rows: auto auto;
+     grid-template-rows: auto auto;
    }
    
    .div-block-53 {
@@ -2932,6 +2932,7 @@
    
    .navbar-3 {
      padding-right: 40px;
+     padding-bottom: 10px;
      padding-left: 40px;
      background-color: #1d4e42;
    }
@@ -3244,8 +3245,8 @@
      }
    
      .heading-45 {
-       font-size: 30px;
-       line-height: 41px;
+       font-size: 35px;
+       line-height: 46px;
        text-align: center;
      }
    
@@ -3344,8 +3345,8 @@
        margin-left: 20px;
        -ms-grid-columns: 1fr;
        grid-template-columns: 1fr;
-       -ms-grid-rows: auto auto auto auto auto auto auto auto;
-       grid-template-rows: auto auto auto auto auto auto auto auto;
+       -ms-grid-rows: auto auto auto auto auto auto;
+       grid-template-rows: auto auto auto auto auto auto;
      }
    
      .div-block-53 {
