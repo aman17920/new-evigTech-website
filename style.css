@@ -1,4 +1,4 @@
-/* Generated on: Wed Jan 05 2022 07:17:45 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Jan 06 2022 10:50:49 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1638,7 +1638,7 @@
      background-color: rgba(33, 78, 65, 0);
    }
    
-   .heading-45 {
+   .welcome-h {
      font-family: 'Aref Ruqaa', sans-serif;
      color: #1d4e42;
      font-size: 55px;
@@ -1646,7 +1646,7 @@
      text-align: left;
    }
    
-   .heading-46 {
+   .scaling {
      font-family: 'Open Sans', sans-serif;
      color: #1d4e42;
      font-size: 18px;
@@ -1679,7 +1679,7 @@
      font-size: 16px;
    }
    
-   .heading-48 {
+   .top-text {
      margin-top: 0px;
      font-family: 'Open Sans', sans-serif;
      color: #1d4e42;
@@ -1693,7 +1693,7 @@
      background-color: #e8f1ef;
    }
    
-   .div-block-49 {
+   .top-left {
      display: -webkit-box;
      display: -webkit-flex;
      display: -ms-flexbox;
@@ -1715,7 +1715,7 @@
      color: #c87272;
    }
    
-   .div-block-50 {
+   .software-devlopment {
      display: -webkit-box;
      display: -webkit-flex;
      display: -ms-flexbox;
@@ -1738,7 +1738,7 @@
      background-color: rgba(232, 241, 239, 0);
    }
    
-   .heading-49 {
+   .entire-software-h {
      font-family: 'Aref Ruqaa', sans-serif;
      color: #214e41;
      font-size: 41px;
@@ -1766,7 +1766,7 @@
      font-weight: 700;
    }
    
-   .button-8 {
+   .requested-button {
      padding: 13px 25px;
      border-style: solid;
      border-width: 1px;
@@ -1778,7 +1778,7 @@
      font-weight: 600;
    }
    
-   .div-block-51 {
+   .devlopment-company {
      margin-right: 0px;
      padding-right: 60px;
    }
@@ -1791,14 +1791,14 @@
      height: 123px;
    }
    
-   .heading-50 {
+   .our-service-h {
      font-family: 'Aref Ruqaa', sans-serif;
      color: #214e41;
      font-size: 42px;
      text-align: center;
    }
    
-   .heading-51 {
+   .dervies-form {
      margin-top: 20px;
      margin-bottom: 0px;
      font-family: 'Open Sans', sans-serif;
@@ -1808,7 +1808,7 @@
      text-align: center;
    }
    
-   .heading-52 {
+   .information-technologies {
      margin-top: 0px;
      font-family: 'Open Sans', sans-serif;
      color: #214e41;
@@ -1817,56 +1817,57 @@
      text-align: center;
    }
    
-   .div-block-52 {
+   .ou-dervicrs {
      padding-top: 20px;
      padding-bottom: 20px;
    }
    
-   .grid-10 {
-     margin-right: 89px;
-     margin-left: 89px;
+   .all-services {
+     margin-right: 60px;
+     margin-left: 60px;
      grid-column-gap: 32px;
      grid-row-gap: 42px;
-     -ms-grid-columns: 3.25fr 3.25fr 3.25fr;
-     grid-template-columns: 3.25fr 3.25fr 3.25fr;
+     -ms-grid-columns: auto auto auto;
+     grid-template-columns: auto auto auto;
      -ms-grid-rows: auto auto;
      grid-template-rows: auto auto;
    }
    
-   .div-block-53 {
+   .services {
      display: -webkit-box;
      display: -webkit-flex;
      display: -ms-flexbox;
      display: flex;
      width: auto;
-     padding: 50px;
+     padding: 20px;
      -webkit-box-align: start;
      -webkit-align-items: flex-start;
      -ms-flex-align: start;
      align-items: flex-start;
      border-radius: 10px;
-     box-shadow: 1px 1px 25px 6px rgba(0, 0, 0, 0.2);
+     box-shadow: 1px 1px 12px 1px rgba(0, 0, 0, 0.2);
    }
    
-   .heading-53 {
+   .services-h {
      margin-top: 0px;
      font-family: 'Open Sans', sans-serif;
      color: #214e41;
+     font-size: 28px;
    }
    
-   .paragraph-7 {
+   .services-p {
      font-family: 'Open Sans', sans-serif;
      color: #214e41;
-     font-size: 16px;
+     font-size: 14px;
      line-height: 30px;
      font-weight: 600;
    }
    
-   .image-5 {
+   .web-icon {
      margin-right: 15px;
    }
    
-   .div-block-54 {
+   .our-works {
      display: -webkit-box;
      display: -webkit-flex;
      display: -ms-flexbox;
@@ -1901,7 +1902,7 @@
      font-size: 16px;
    }
    
-   .heading-55 {
+   .working-process-text {
      margin-top: 0px;
      color: #214e41;
      font-size: 16px;
@@ -1917,7 +1918,7 @@
      font-size: 30px;
    }
    
-   .heading-57 {
+   .process-h {
      margin-top: 20px;
      margin-bottom: 40px;
      font-family: 'Aref Ruqaa', sans-serif;
@@ -1925,7 +1926,7 @@
      font-size: 30px;
    }
    
-   .button-9 {
+   .process-contact-button {
      display: -webkit-box;
      display: -webkit-flex;
      display: -ms-flexbox;
@@ -1962,7 +1963,7 @@
      font-weight: 700;
    }
    
-   .paragraph-8 {
+   .process-p {
      font-family: 'Open Sans', sans-serif;
      color: #214e41;
      font-size: 15px;
@@ -1975,12 +1976,12 @@
      grid-template-columns: 0.5fr 0.5fr;
    }
    
-   .div-block-56 {
+   .all-process {
      padding-right: 24px;
      padding-left: 24px;
    }
    
-   .heading-58 {
+   .discovery-text {
      margin-bottom: 0px;
      color: #214e41;
    }
@@ -2277,7 +2278,7 @@
      grid-template-rows: auto;
    }
    
-   .heading-72 {
+   .about-h {
      margin-bottom: 16px;
      font-family: 'Aref Ruqaa', sans-serif;
      color: #fff;
@@ -2285,7 +2286,7 @@
      text-align: left;
    }
    
-   .heading-73 {
+   .about-the--company-text {
      margin-top: 40px;
      margin-bottom: 0px;
      font-family: 'Open Sans', sans-serif;
@@ -2307,7 +2308,7 @@
      border-bottom: 1px solid #fff;
    }
    
-   .heading-74 {
+   .company-66 {
      margin-top: 0px;
      margin-bottom: 14px;
      font-family: 'Open Sans', sans-serif;
@@ -2317,7 +2318,7 @@
      text-align: left;
    }
    
-   .heading-75 {
+   .phone-no {
      margin-top: 0px;
      margin-bottom: 0px;
      margin-left: 10px;
@@ -2352,15 +2353,15 @@
      font-size: 22px;
    }
    
-   .div-block-64 {
+   .company {
      margin-bottom: 35px;
    }
    
-   .image-8 {
+   .facbook {
      margin-right: 20px;
    }
    
-   .image-9 {
+   .linkedin {
      margin-right: 20px;
    }
    
@@ -2368,7 +2369,7 @@
      background-color: #003023;
    }
    
-   .heading-76 {
+   .all-rihts {
      margin-top: 0px;
      margin-bottom: 0px;
      padding-top: 20px;
@@ -2377,6 +2378,7 @@
      font-family: 'Open Sans', sans-serif;
      font-size: 17px;
      font-weight: 600;
+     text-align: left;
    }
    
    .bold-text-23 {
@@ -2416,7 +2418,7 @@
    }
    
    .bold-text-25 {
-     font-size: 18px;
+     font-size: 17px;
      font-weight: 600;
    }
    
@@ -2430,7 +2432,7 @@
      background-color: rgba(0, 0, 0, 0.7);
    }
    
-   .heading-80 {
+   .top-text-09 {
      font-family: 'Open Sans', sans-serif;
      color: #fff;
      font-size: 18px;
@@ -2446,17 +2448,17 @@
      color: #fff;
    }
    
-   .heading-82 {
+   .startups-h {
      color: #fff;
      font-size: 45px;
      line-height: 58px;
    }
    
-   .div-block-83 {
+   .top-09 {
      padding: 221px 41px 221px 34px;
    }
    
-   .grid-17 {
+   .evig {
      margin: 20px 68px 54px;
      grid-column-gap: 41px;
      -ms-grid-rows: auto;
@@ -2470,7 +2472,7 @@
      text-align: left;
    }
    
-   .heading-84 {
+   .location-h {
      font-family: 'Open Sans', sans-serif;
      font-size: 26px;
      font-weight: 600;
@@ -2482,26 +2484,28 @@
      font-weight: 600;
    }
    
-   .paragraph-11 {
+   .description {
      font-family: 'Open Sans', sans-serif;
      color: #214e41;
+     font-size: 16px;
+     line-height: 23px;
      font-weight: 600;
      text-align: left;
    }
    
-   .heading-85 {
+   .client-trust {
      margin-top: 10px;
      font-family: 'Open Sans', sans-serif;
      color: #214e41;
      font-size: 16px;
-     font-weight: 400;
+     font-weight: 600;
      text-align: left;
    }
    
-   .paragraph-12 {
+   .p {
      font-family: 'Open Sans', sans-serif;
      color: #214e41;
-     font-size: 16px;
+     font-size: 17px;
      text-align: left;
    }
    
@@ -2521,16 +2525,35 @@
      align-items: flex-start;
    }
    
-   .button-11 {
+   .evig-ourservices {
+     display: -webkit-box;
+     display: -webkit-flex;
+     display: -ms-flexbox;
+     display: flex;
+     width: 166px;
+     height: 50px;
      margin-top: 20px;
      padding-right: 27px;
      padding-left: 27px;
+     -webkit-box-orient: vertical;
+     -webkit-box-direction: normal;
+     -webkit-flex-direction: column;
+     -ms-flex-direction: column;
+     flex-direction: column;
+     -webkit-box-pack: center;
+     -webkit-justify-content: center;
+     -ms-flex-pack: center;
+     justify-content: center;
+     -webkit-box-align: center;
+     -webkit-align-items: center;
+     -ms-flex-align: center;
+     align-items: center;
      background-color: #214e41;
      font-family: 'Open Sans', sans-serif;
      font-weight: 600;
    }
    
-   .div-block-85 {
+   .it-company {
      margin-top: 40px;
      margin-bottom: 40px;
      padding-top: 40px;
@@ -2540,7 +2563,7 @@
      background-size: auto;
    }
    
-   .grid-18 {
+   .more-about {
      -ms-grid-columns: 0.75fr 1fr;
      grid-template-columns: 0.75fr 1fr;
      -ms-grid-rows: auto;
@@ -2555,7 +2578,7 @@
      background-size: auto;
    }
    
-   .div-block-86 {
+   .company-im {
      background-color: #fff;
    }
    
@@ -2567,13 +2590,13 @@
      background-color: rgba(0, 0, 0, 0.09);
    }
    
-   .heading-86 {
+   .more-about-us-h {
      color: #214e41;
      font-size: 45px;
      text-align: left;
    }
    
-   .heading-87 {
+   .business-and-startup {
      font-family: 'Open Sans', sans-serif;
      color: #214e41;
      font-size: 16px;
@@ -2581,7 +2604,7 @@
      text-align: left;
    }
    
-   .heading-88 {
+   .innovative {
      margin-top: 0px;
      margin-bottom: 0px;
      font-family: 'Open Sans', sans-serif;
@@ -2590,7 +2613,7 @@
      text-align: left;
    }
    
-   .bold-text-28 {
+   .complete-transparency {
      color: #214e41;
      font-weight: 600;
    }
@@ -2616,7 +2639,7 @@
      align-items: flex-start;
    }
    
-   .button-12 {
+   .aboutus-our-services {
      background-color: #214e41;
      font-family: 'Open Sans', sans-serif;
      font-size: 16px;
@@ -2675,7 +2698,7 @@
      grid-template-rows: auto;
    }
    
-   .heading-91 {
+   .number {
      font-family: 'Open Sans', sans-serif;
      color: #b69765;
      font-size: 111px;
@@ -2683,7 +2706,7 @@
      text-align: left;
    }
    
-   .bold-text-31 {
+   .our-text {
      color: #214e41;
      font-weight: 700;
      text-align: left;
@@ -2695,14 +2718,14 @@
      text-align: left;
    }
    
-   .paragraph-14 {
+   .our-p {
      font-family: 'Open Sans', sans-serif;
      color: #404e41;
      font-weight: 600;
      text-align: left;
    }
    
-   .div-block-91 {
+   .our-h {
      margin-top: 81px;
      margin-bottom: 81px;
      padding-top: 0px;
@@ -2711,7 +2734,7 @@
      border-right: 2px solid #214e41;
    }
    
-   .div-block-92 {
+   .our-company {
      margin-top: 81px;
      margin-bottom: 54px;
      background-color: #c1d1cc;
@@ -2722,8 +2745,9 @@
      font-size: 45px;
    }
    
-   .grid-21 {
-     padding-top: 20px;
+   .work-on {
+     margin-top: 20px;
+     padding-top: 0px;
      justify-items: center;
      -webkit-box-align: center;
      -webkit-align-items: center;
@@ -2812,7 +2836,7 @@
      color: rgba(51, 51, 51, 0);
    }
    
-   .heading-94 {
+   .technologies-text {
      color: #214e41;
      font-size: 45px;
    }
@@ -2830,7 +2854,7 @@
      font-weight: 600;
    }
    
-   .grid-22 {
+   .top-2 {
      margin-right: 40px;
      margin-left: 40px;
      padding-top: 20px;
@@ -2870,7 +2894,7 @@
      align-items: center;
    }
    
-   .button-13 {
+   .button--contact-us {
      display: -webkit-box;
      display: -webkit-flex;
      display: -ms-flexbox;
@@ -2901,14 +2925,14 @@
      text-align: center;
    }
    
-   .nav-link-5 {
+   .home {
      font-family: 'Open Sans', sans-serif;
      color: #fff;
      font-size: 16px;
      font-weight: 600;
    }
    
-   .nav-link-5.w--current {
+   .home.w--current {
      color: #fcfcfc;
    }
    
@@ -2923,14 +2947,14 @@
      color: #fff;
    }
    
-   .nav-link-7 {
+   .prtfolio {
      font-family: 'Open Sans', sans-serif;
      color: #fff;
      font-size: 18px;
      font-weight: 600;
    }
    
-   .navbar-3 {
+   .navbartop {
      padding-right: 40px;
      padding-bottom: 10px;
      padding-left: 40px;
@@ -2941,7 +2965,7 @@
      color: #214e41;
    }
    
-   .div-block-99 {
+   .about-copmay {
      display: -webkit-box;
      display: -webkit-flex;
      display: -ms-flexbox;
@@ -2955,6 +2979,27 @@
      -webkit-align-items: flex-start;
      -ms-flex-align: start;
      align-items: flex-start;
+   }
+   
+   .bold-text-34 {
+     font-size: 14px;
+     font-weight: 600;
+   }
+   
+   .bold-text-35 {
+     font-weight: 600;
+   }
+   
+   .bold-text-36 {
+     font-weight: 600;
+   }
+   
+   .list-item-2 {
+     color: #214e41;
+   }
+   
+   .list-item-3 {
+     color: #214e41;
    }
    
    @media screen and (max-width: 991px) {
@@ -3168,6 +3213,98 @@
        -ms-grid-rows: auto auto;
        grid-template-rows: auto auto;
      }
+   
+     .software-devlopment {
+       -webkit-box-orient: vertical;
+       -webkit-box-direction: normal;
+       -webkit-flex-direction: column;
+       -ms-flex-direction: column;
+       flex-direction: column;
+     }
+   
+     .devlopment-company {
+       margin-bottom: 20px;
+     }
+   
+     .all-services {
+       -ms-grid-columns: auto auto;
+       grid-template-columns: auto auto;
+       -ms-grid-rows: auto auto auto;
+       grid-template-rows: auto auto auto;
+     }
+   
+     .our-works {
+       -webkit-box-orient: vertical;
+       -webkit-box-direction: normal;
+       -webkit-flex-direction: column;
+       -ms-flex-direction: column;
+       flex-direction: column;
+       -webkit-box-align: center;
+       -webkit-align-items: center;
+       -ms-flex-align: center;
+       align-items: center;
+     }
+   
+     .grid-11 {
+       margin-top: 40px;
+     }
+   
+     .grid-16 {
+       grid-column-gap: 14px;
+     }
+   
+     .evig {
+       -ms-grid-columns: 1fr;
+       grid-template-columns: 1fr;
+       -ms-grid-rows: auto auto;
+       grid-template-rows: auto auto;
+     }
+   
+     .grid-20 {
+       justify-items: center;
+       -ms-grid-columns: 1fr;
+       grid-template-columns: 1fr;
+       -ms-grid-rows: auto auto auto;
+       grid-template-rows: auto auto auto;
+     }
+   
+     .number {
+       text-align: center;
+     }
+   
+     .heading-92 {
+       text-align: center;
+     }
+   
+     .our-p {
+       text-align: center;
+     }
+   
+     .our-h {
+       border-bottom: 2px solid #000;
+       border-right-width: 0px;
+     }
+   
+     .nav-menu-3 {
+       padding-left: 20px;
+       background-color: rgba(29, 78, 66, 0.98);
+     }
+   
+     .icon-8 {
+       color: #fff;
+     }
+   
+     .menu-button-4.w--open {
+       display: -webkit-box;
+       display: -webkit-flex;
+       display: -ms-flexbox;
+       display: flex;
+       -webkit-box-align: center;
+       -webkit-align-items: center;
+       -ms-flex-align: center;
+       align-items: center;
+       background-color: hsla(0, 0%, 94%, 0.09);
+     }
    }
    
    @media screen and (max-width: 767px) {
@@ -3191,6 +3328,13 @@
        -webkit-flex: 1;
        -ms-flex: 1;
        flex: 1;
+     }
+   
+     .more-about {
+       -ms-grid-columns: 1fr;
+       grid-template-columns: 1fr;
+       -ms-grid-rows: auto auto;
+       grid-template-rows: auto auto;
      }
    }
    
@@ -3244,13 +3388,13 @@
        background-color: hsla(0, 0%, 76.7%, 0);
      }
    
-     .heading-45 {
+     .welcome-h {
        font-size: 35px;
        line-height: 46px;
        text-align: center;
      }
    
-     .heading-46 {
+     .scaling {
        margin-top: 10px;
        font-size: 14px;
        line-height: 17px;
@@ -3261,19 +3405,19 @@
        border-radius: 0px 0px 25px 25px;
      }
    
-     .heading-48 {
+     .top-text {
        font-size: 14px;
        text-align: center;
      }
    
-     .div-block-49 {
+     .top-left {
        -webkit-box-align: center;
        -webkit-align-items: center;
        -ms-flex-align: center;
        align-items: center;
      }
    
-     .div-block-50 {
+     .software-devlopment {
        padding-right: 40px;
        padding-left: 40px;
        -webkit-box-orient: vertical;
@@ -3283,7 +3427,7 @@
        flex-direction: column;
      }
    
-     .heading-49 {
+     .entire-software-h {
        font-size: 20px;
        line-height: 30px;
        text-align: left;
@@ -3302,12 +3446,12 @@
        font-size: 14px;
      }
    
-     .button-8 {
+     .requested-button {
        padding: 10px 20px;
        font-size: 11px;
      }
    
-     .div-block-51 {
+     .devlopment-company {
        display: -webkit-box;
        display: -webkit-flex;
        display: -ms-flexbox;
@@ -3327,20 +3471,20 @@
        align-items: flex-start;
      }
    
-     .heading-50 {
+     .our-service-h {
        font-size: 22px;
      }
    
-     .heading-51 {
+     .dervies-form {
        margin-top: 10px;
        font-size: 14px;
      }
    
-     .heading-52 {
+     .information-technologies {
        font-size: 12px;
      }
    
-     .grid-10 {
+     .all-services {
        margin-right: 20px;
        margin-left: 20px;
        -ms-grid-columns: 1fr;
@@ -3349,7 +3493,7 @@
        grid-template-rows: auto auto auto auto auto auto;
      }
    
-     .div-block-53 {
+     .services {
        padding: 20px;
        -webkit-box-orient: vertical;
        -webkit-box-direction: normal;
@@ -3362,18 +3506,18 @@
        align-items: center;
      }
    
-     .heading-53 {
+     .services-h {
        font-size: 20px;
        text-align: center;
      }
    
-     .paragraph-7 {
+     .services-p {
        font-size: 14px;
        line-height: 23px;
        text-align: center;
      }
    
-     .div-block-54 {
+     .our-works {
        padding-right: 40px;
        padding-left: 40px;
        -webkit-box-orient: vertical;
@@ -3407,7 +3551,7 @@
        font-size: 14px;
      }
    
-     .heading-57 {
+     .process-h {
        margin-top: 0px;
        margin-bottom: 0px;
        font-size: 20px;
@@ -3419,7 +3563,7 @@
        font-size: 20px;
      }
    
-     .paragraph-8 {
+     .process-p {
        font-size: 14px;
        text-align: center;
      }
@@ -3431,7 +3575,7 @@
        grid-template-rows: auto auto auto auto;
      }
    
-     .div-block-56 {
+     .all-process {
        display: -webkit-box;
        display: -webkit-flex;
        display: -ms-flexbox;
@@ -3563,13 +3707,13 @@
        grid-template-rows: auto;
      }
    
-     .heading-72 {
+     .about-h {
        margin-top: 0px;
        margin-bottom: 8px;
        font-size: 9px;
      }
    
-     .heading-73 {
+     .about-the--company-text {
        margin-top: 5px;
        font-size: 34px;
        line-height: 6px;
@@ -3581,12 +3725,12 @@
        line-height: 10px;
      }
    
-     .heading-74 {
+     .company-66 {
        margin-bottom: 1px;
        font-size: 12px;
      }
    
-     .heading-75 {
+     .phone-no {
        margin-left: 8px;
        font-size: 9px;
        line-height: 16px;
@@ -3604,17 +3748,17 @@
        justify-content: flex-start;
      }
    
-     .image-8 {
+     .facbook {
        max-width: 19%;
        margin-right: 10px;
      }
    
-     .image-9 {
+     .linkedin {
        max-width: 19%;
        margin-right: 10px;
      }
    
-     .heading-76 {
+     .all-rihts {
        display: -webkit-box;
        display: -webkit-flex;
        display: -ms-flexbox;
@@ -3635,7 +3779,7 @@
        font-size: 11px;
      }
    
-     .heading-78 {
+     .new-project-h {
        font-size: 24px;
        text-align: left;
      }
@@ -3982,7 +4126,7 @@
        font-size: 8px;
      }
    
-     .image-35 {
+     .twitter {
        max-width: 19%;
      }
    
@@ -3998,7 +4142,7 @@
        max-width: 18%;
      }
    
-     .div-block-80 {
+     .contact-us {
        width: 100%;
      }
    
@@ -4019,16 +4163,16 @@
        background-position: 0% 50%;
      }
    
-     .heading-82 {
+     .startups-h {
        font-size: 20px;
        line-height: 26px;
      }
    
-     .div-block-83 {
+     .top-09 {
        padding: 60px 10px;
      }
    
-     .grid-17 {
+     .evig {
        -ms-grid-columns: 1fr;
        grid-template-columns: 1fr;
        -ms-grid-rows: auto 210px;
@@ -4047,19 +4191,19 @@
        text-align: left;
      }
    
-     .paragraph-11 {
+     .description {
        font-size: 10px;
        line-height: 12px;
        text-align: left;
      }
    
-     .heading-85 {
+     .client-trust {
        font-size: 12px;
        line-height: 17px;
        text-align: left;
      }
    
-     .paragraph-12 {
+     .p {
        font-size: 12px;
        font-weight: 600;
        text-align: left;
@@ -4072,11 +4216,11 @@
        align-items: center;
      }
    
-     .button-11 {
+     .evig-ourservices {
        margin-top: 10px;
      }
    
-     .div-block-85 {
+     .it-company {
        display: -webkit-box;
        display: -webkit-flex;
        display: -ms-flexbox;
@@ -4096,29 +4240,29 @@
        align-items: center;
      }
    
-     .grid-18 {
+     .more-about {
        -ms-grid-columns: 1fr;
        grid-template-columns: 1fr;
        -ms-grid-rows: auto auto;
        grid-template-rows: auto auto;
      }
    
-     .heading-86 {
+     .more-about-us-h {
        font-size: 22px;
        text-align: center;
      }
    
-     .heading-87 {
+     .business-and-startup {
        margin-top: 10px;
        font-size: 12px;
        line-height: 19px;
      }
    
-     .heading-88 {
+     .innovative {
        line-height: 20px;
      }
    
-     .bold-text-28 {
+     .complete-transparency {
        font-size: 12px;
        line-height: 0px;
      }
@@ -4178,12 +4322,12 @@
        grid-template-rows: 0.5fr auto;
      }
    
-     .heading-91 {
+     .number {
        font-size: 50px;
        text-align: center;
      }
    
-     .bold-text-31 {
+     .our-text {
        font-size: 22px;
      }
    
@@ -4193,14 +4337,14 @@
        text-align: center;
      }
    
-     .paragraph-14 {
+     .our-p {
        margin-bottom: 0px;
        font-size: 12px;
        line-height: 16px;
        text-align: center;
      }
    
-     .div-block-91 {
+     .our-h {
        display: -webkit-box;
        display: -webkit-flex;
        display: -ms-flexbox;
@@ -4230,7 +4374,7 @@
        height: auto;
      }
    
-     .heading-94 {
+     .technologies-text {
        font-size: 20px;
      }
    
@@ -4251,7 +4395,7 @@
        font-size: 22px;
      }
    
-     .grid-22 {
+     .top-2 {
        margin-right: 0px;
        margin-left: 20px;
        -ms-grid-columns: 1fr;
@@ -4308,7 +4452,7 @@
        background-color: rgba(39, 95, 82, 0.99);
      }
    
-     .button-13 {
+     .button--contact-us {
        display: -webkit-box;
        display: -webkit-flex;
        display: -ms-flexbox;
@@ -4316,11 +4460,11 @@
        margin-left: 20px;
      }
    
-     .nav-link-5 {
+     .home {
        color: #5d9285;
      }
    
-     .navbar-3 {
+     .navbartop {
        padding-right: 10px;
        padding-left: 10px;
      }
@@ -4454,6 +4598,16 @@
      justify-self: center;
    }
    
+   #w-node-_893dc274-98e5-dc27-41ce-d8723353071f-3353071d {
+     -ms-grid-column-align: start;
+     justify-self: start;
+   }
+   
+   #w-node-_893dc274-98e5-dc27-41ce-d87233530726-3353071d {
+     -ms-grid-column-align: start;
+     justify-self: start;
+   }
+   
    #w-node-_692e2c6f-6747-c5c1-9aca-5786697e1fb9-adb5fb30 {
      -ms-grid-column-align: start;
      justify-self: start;
@@ -4493,14 +4647,12 @@
      justify-self: center;
    }
    
-   #w-node-_908ac7a3-6570-f269-771d-221119f64a7a-adb5fb30 {
-     -ms-grid-column-align: start;
-     justify-self: start;
-   }
    
-   #w-node-_908ac7a3-6570-f269-771d-221119f64a81-adb5fb30 {
-     -ms-grid-column-align: start;
-     justify-self: start;
+   @media screen and (max-width: 991px) {
+     #w-node-f53e01e2-e9fc-f6a5-6da3-8cc3667bdce1-adb5fb30 {
+       -ms-grid-column-align: center;
+       justify-self: center;
+     }
    }
    
    @media screen and (max-width: 479px) {
@@ -4518,7 +4670,7 @@
        justify-self: center;
      }
    
-     #w-node-_071495ed-941f-72b3-197e-9ad3ea24c21b-e261d25a {
+     #w-node-_893dc274-98e5-dc27-41ce-d8723353071f-3353071d {
        -ms-grid-row: span 1;
        grid-row-start: span 1;
        -ms-grid-row-span: 1;
@@ -4556,15 +4708,5 @@
        -ms-grid-column-span: 1;
        grid-column-end: span 1;
      }
-   
-     #w-node-_908ac7a3-6570-f269-771d-221119f64a7a-adb5fb30 {
-       -ms-grid-row: span 1;
-       grid-row-start: span 1;
-       -ms-grid-row-span: 1;
-       grid-row-end: span 1;
-       -ms-grid-column: span 1;
-       grid-column-start: span 1;
-       -ms-grid-column-span: 1;
-       grid-column-end: span 1;
-     }
    }
+   
