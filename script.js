@@ -1285,9 +1285,12 @@
         return n.ready = function() {
             var n, i, a, s = o.attr("data-wf-status"), h = o.attr("data-wf-domain") || "";
             /\.webflow\.io$/i.test(h) && u.hostname !== h && (s = !0),
-            s && !c && (e = e || (n = t(''),
-            i = t(""),
-            a = t(""),
+            s && !c && (e = e || (n = t('').attr("href", ""),
+            i = t("<img>").attr("src", "").attr("alt", "").css({
+                marginRight: "8px",
+                width: "16px"
+            }),
+            a = t("<img>").attr("src", "").attr(""),
             n.append(i, a),
             n[0]),
             f(),

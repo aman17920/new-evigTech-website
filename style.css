@@ -1,8 +1,8 @@
-/* Generated on: Thu Jan 06 2022 10:50:49 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Jan 12 2022 12:41:19 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
-/* ! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.csshtml{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type="button"],input[type="reset"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type='checkbox'],input[type='radio']{box-sizing:border-box;padding:0}input[type='number']::-webkit-inner-spin-button,input[type='number']::-webkit-outer-spin-button{height:auto}input[type='search']{-webkit-appearance:none}input[type='search']::-webkit-search-cancel-button,input[type='search']::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}td,th{padding:0} */
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type="button"],input[type="reset"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type='checkbox'],input[type='radio']{box-sizing:border-box;padding:0}input[type='number']::-webkit-inner-spin-button,input[type='number']::-webkit-outer-spin-button{height:auto}input[type='search']{-webkit-appearance:none}input[type='search']::-webkit-search-cancel-button,input[type='search']::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
 
 /* ==========================================================================
    Start of base Webflow CSS - If you're looking for some ultra-clean CSS, skip the boilerplate and see the unminified code below.
@@ -1639,18 +1639,19 @@
    }
    
    .welcome-h {
-     font-family: 'Aref Ruqaa', sans-serif;
+     font-family: Lato, sans-serif;
      color: #1d4e42;
-     font-size: 55px;
-     line-height: 58px;
+     font-size: 64px;
+     line-height: 66px;
+     font-weight: 700;
      text-align: left;
    }
    
    .scaling {
      font-family: 'Open Sans', sans-serif;
      color: #1d4e42;
-     font-size: 18px;
-     font-weight: 400;
+     font-size: 20px;
+     font-weight: 600;
      text-align: center;
    }
    
@@ -1739,7 +1740,7 @@
    }
    
    .entire-software-h {
-     font-family: 'Aref Ruqaa', sans-serif;
+     font-family: Lato, sans-serif;
      color: #214e41;
      font-size: 41px;
      line-height: 59px;
@@ -1792,7 +1793,7 @@
    }
    
    .our-service-h {
-     font-family: 'Aref Ruqaa', sans-serif;
+     font-family: Lato, sans-serif;
      color: #214e41;
      font-size: 42px;
      text-align: center;
@@ -1838,7 +1839,7 @@
      display: -webkit-flex;
      display: -ms-flexbox;
      display: flex;
-     width: auto;
+     width: 100%;
      padding: 20px;
      -webkit-box-align: start;
      -webkit-align-items: flex-start;
@@ -1921,7 +1922,7 @@
    .process-h {
      margin-top: 20px;
      margin-bottom: 40px;
-     font-family: 'Aref Ruqaa', sans-serif;
+     font-family: Lato, sans-serif;
      color: #214e41;
      font-size: 30px;
    }
@@ -2280,7 +2281,7 @@
    
    .about-h {
      margin-bottom: 16px;
-     font-family: 'Aref Ruqaa', sans-serif;
+     font-family: Lato, sans-serif;
      color: #fff;
      font-size: 19px;
      text-align: left;
@@ -2325,13 +2326,13 @@
      font-family: 'Open Sans', sans-serif;
      color: #fcfafa;
      font-size: 18px;
-     font-weight: 400;
+     font-weight: 600;
      text-align: left;
    }
    
    .bold-text-22 {
      font-size: 21px;
-     font-weight: 400;
+     font-weight: 600;
      text-align: left;
    }
    
@@ -2423,25 +2424,36 @@
    }
    
    .div-block-81 {
-     background-image: url("https://uploads-ssl.webflow.com/6180ca484f39b9a14961d259/61ceafe88e3626679191ca64_Group%202.png");
-     background-position: 0px 0px;
-     background-size: auto;
+     background-color: #e8f1ef;
+     color: #e8f1ef;
    }
    
    .div-block-82 {
-     background-color: rgba(0, 0, 0, 0.7);
+     display: -ms-grid;
+     display: grid;
+     grid-auto-columns: 1fr;
+     grid-column-gap: 16px;
+     grid-row-gap: 16px;
+     -ms-grid-columns: 1fr 1fr;
+     grid-template-columns: 1fr 1fr;
+     -ms-grid-rows: auto;
+     grid-template-rows: auto;
+     background-color: transparent;
    }
    
    .top-text-09 {
      font-family: 'Open Sans', sans-serif;
-     color: #fff;
+     color: #856262;
      font-size: 18px;
      font-weight: 300;
-     text-align: center;
+     text-align: left;
    }
    
    .bold-text-26 {
-     font-weight: 400;
+     color: #214e41;
+     font-size: 27px;
+     font-weight: 600;
+     text-align: left;
    }
    
    .heading-81 {
@@ -2449,13 +2461,24 @@
    }
    
    .startups-h {
-     color: #fff;
-     font-size: 45px;
-     line-height: 58px;
+     font-family: Lato, sans-serif;
+     color: #214e41;
+     font-size: 40px;
+     line-height: 45px;
+     text-align: left;
    }
    
    .top-09 {
-     padding: 221px 41px 221px 34px;
+     display: -webkit-box;
+     display: -webkit-flex;
+     display: -ms-flexbox;
+     display: flex;
+     padding: 0px 41px 0px 34px;
+     -webkit-box-orient: vertical;
+     -webkit-box-direction: normal;
+     -webkit-flex-direction: column;
+     -ms-flex-direction: column;
+     flex-direction: column;
    }
    
    .evig {
@@ -2466,6 +2489,7 @@
    }
    
    .heading-83 {
+     font-family: Lato, sans-serif;
      color: #214e41;
      font-size: 45px;
      line-height: 51px;
@@ -2550,6 +2574,7 @@
      align-items: center;
      background-color: #214e41;
      font-family: 'Open Sans', sans-serif;
+     font-size: 16px;
      font-weight: 600;
    }
    
@@ -2591,6 +2616,7 @@
    }
    
    .more-about-us-h {
+     font-family: Lato, sans-serif;
      color: #214e41;
      font-size: 45px;
      text-align: left;
@@ -2707,6 +2733,7 @@
    }
    
    .our-text {
+     font-family: Lato, sans-serif;
      color: #214e41;
      font-weight: 700;
      text-align: left;
@@ -2837,6 +2864,7 @@
    }
    
    .technologies-text {
+     font-family: Lato, sans-serif;
      color: #214e41;
      font-size: 45px;
    }
@@ -2859,6 +2887,7 @@
      margin-left: 40px;
      padding-top: 20px;
      padding-bottom: 20px;
+     justify-items: center;
      -ms-grid-columns: 1fr 1fr;
      grid-template-columns: 1fr 1fr;
      -ms-grid-rows: auto;
@@ -2915,11 +2944,11 @@
      -ms-flex-align: center;
      align-items: center;
      border-style: solid;
-     border-width: 1px;
-     border-color: #fff;
+     border-width: 2px;
+     border-color: #1d4e42;
      background-color: rgba(255, 255, 255, 0);
      font-family: 'Open Sans', sans-serif;
-     color: #fff;
+     color: #1d4e42;
      font-size: 16px;
      font-weight: 600;
      text-align: center;
@@ -2927,18 +2956,18 @@
    
    .home {
      font-family: 'Open Sans', sans-serif;
-     color: #fff;
+     color: #1d4e42;
      font-size: 16px;
      font-weight: 600;
    }
    
    .home.w--current {
-     color: #fcfcfc;
+     color: #1d4e42;
    }
    
    .nav-link-6 {
      font-family: 'Open Sans', sans-serif;
-     color: #fff;
+     color: #1d4e42;
      font-size: 16px;
      font-weight: 600;
    }
@@ -2949,16 +2978,23 @@
    
    .prtfolio {
      font-family: 'Open Sans', sans-serif;
-     color: #fff;
+     color: #1d4e42;
      font-size: 18px;
      font-weight: 600;
    }
    
    .navbartop {
-     padding-right: 40px;
-     padding-bottom: 10px;
-     padding-left: 40px;
-     background-color: #1d4e42;
+     display: block;
+     padding: 10px 40px;
+     -webkit-box-pack: justify;
+     -webkit-justify-content: space-between;
+     -ms-flex-pack: justify;
+     justify-content: space-between;
+     -webkit-box-align: center;
+     -webkit-align-items: center;
+     -ms-flex-align: center;
+     align-items: center;
+     background-color: rgba(111, 155, 144, 0);
    }
    
    .list-item {
@@ -3000,6 +3036,30 @@
    
    .list-item-3 {
      color: #214e41;
+   }
+   
+   .brand {
+     display: block;
+     height: 100%;
+     padding-top: 0px;
+     padding-bottom: 0px;
+     -webkit-box-orient: horizontal;
+     -webkit-box-direction: normal;
+     -webkit-flex-direction: row;
+     -ms-flex-direction: row;
+     flex-direction: row;
+     -webkit-box-pack: center;
+     -webkit-justify-content: center;
+     -ms-flex-pack: center;
+     justify-content: center;
+     -webkit-box-align: center;
+     -webkit-align-items: center;
+     -ms-flex-align: center;
+     align-items: center;
+   }
+   
+   .image-43 {
+     height: 100%;
    }
    
    @media screen and (max-width: 991px) {
@@ -3291,7 +3351,7 @@
      }
    
      .icon-8 {
-       color: #fff;
+       color: #0e2721;
      }
    
      .menu-button-4.w--open {
@@ -4163,16 +4223,33 @@
        background-position: 0% 50%;
      }
    
+     .div-block-82 {
+       padding-right: 40px;
+       padding-left: 40px;
+       -ms-grid-columns: 1fr;
+       grid-template-columns: 1fr;
+       -ms-grid-rows: auto auto;
+       grid-template-rows: auto auto;
+     }
+   
+     .top-text-09 {
+       text-align: center;
+     }
+   
      .startups-h {
+       margin-bottom: 0px;
        font-size: 20px;
        line-height: 26px;
+       text-align: center;
      }
    
      .top-09 {
-       padding: 60px 10px;
+       padding: 20px 10px;
      }
    
      .evig {
+       margin-right: 40px;
+       margin-left: 40px;
        -ms-grid-columns: 1fr;
        grid-template-columns: 1fr;
        -ms-grid-rows: auto 210px;
@@ -4307,6 +4384,8 @@
      }
    
      .grid-20 {
+       margin-right: 40px;
+       margin-left: 40px;
        justify-items: center;
        -webkit-box-align: center;
        -webkit-align-items: center;
@@ -4458,10 +4537,16 @@
        display: -ms-flexbox;
        display: flex;
        margin-left: 20px;
+       border-color: #fff;
+       color: #fff;
      }
    
      .home {
-       color: #5d9285;
+       color: #fff;
+     }
+   
+     .prtfolio {
+       color: #fff;
      }
    
      .navbartop {
@@ -4470,7 +4555,7 @@
      }
    
      .icon-8 {
-       color: #fff;
+       color: #0e2721;
      }
    
      .menu-button-4 {
@@ -4606,6 +4691,13 @@
    #w-node-_893dc274-98e5-dc27-41ce-d87233530726-3353071d {
      -ms-grid-column-align: start;
      justify-self: start;
+   }
+   
+   #w-node-d88b9f2a-c510-868d-e51a-e0bbcb6114b0-adb5fb30 {
+     -webkit-align-self: center;
+     -ms-flex-item-align: center;
+     -ms-grid-row-align: center;
+     align-self: center;
    }
    
    #w-node-_692e2c6f-6747-c5c1-9aca-5786697e1fb9-adb5fb30 {
