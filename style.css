@@ -1,4 +1,4 @@
-/* Generated on: Thu Jan 13 2022 07:41:18 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Jan 13 2022 11:38:03 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1640,7 +1640,7 @@
    
    .welcome-h {
      font-family: Lato, sans-serif;
-     color: #1d4e42;
+     color: #1c8889;
      font-size: 64px;
      line-height: 66px;
      font-weight: 700;
@@ -1649,7 +1649,7 @@
    
    .scaling {
      font-family: 'Open Sans', sans-serif;
-     color: #1d4e42;
+     color: #1c8889;
      font-size: 20px;
      font-weight: 600;
      text-align: center;
@@ -1683,7 +1683,7 @@
    .top-text {
      margin-top: 0px;
      font-family: 'Open Sans', sans-serif;
-     color: #1d4e42;
+     color: #1c8889;
      font-size: 20px;
      line-height: 30px;
      font-weight: 600;
@@ -1745,7 +1745,7 @@
    
    .entire-software-h {
      font-family: Lato, sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 41px;
      line-height: 59px;
    }
@@ -1753,7 +1753,7 @@
    .paragraph-6 {
      margin-top: 20px;
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 18px;
      line-height: 28px;
      font-weight: 400;
@@ -1766,7 +1766,7 @@
    
    .bold-text-10 {
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 22px;
      font-weight: 700;
    }
@@ -1775,10 +1775,10 @@
      padding: 13px 25px;
      border-style: solid;
      border-width: 1px;
-     border-color: #214e41;
+     border-color: #1c88a2;
      background-color: rgba(56, 152, 236, 0);
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 20px;
      font-weight: 600;
    }
@@ -1798,7 +1798,7 @@
    
    .our-service-h {
      font-family: Lato, sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 42px;
      text-align: center;
    }
@@ -1807,7 +1807,7 @@
      margin-top: 20px;
      margin-bottom: 0px;
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 24px;
      font-weight: 700;
      text-align: center;
@@ -1816,7 +1816,7 @@
    .information-technologies {
      margin-top: 0px;
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1e8a90;
      font-size: 20px;
      font-weight: 700;
      text-align: center;
@@ -2297,9 +2297,9 @@
      margin-bottom: 0px;
      font-family: 'Open Sans', sans-serif;
      color: #fff;
-     font-size: 20px;
+     font-size: 18px;
      line-height: 30px;
-     font-weight: 300;
+     font-weight: 600;
      text-align: left;
    }
    
@@ -2339,7 +2339,7 @@
    }
    
    .bold-text-22 {
-     font-size: 21px;
+     font-size: 18px;
      font-weight: 600;
      text-align: left;
    }
@@ -2428,7 +2428,7 @@
    }
    
    .bold-text-25 {
-     font-size: 17px;
+     font-size: 18px;
      font-weight: 600;
    }
    
@@ -2952,12 +2952,10 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     border-style: solid;
-     border-width: 2px;
-     border-color: #1d4e42;
+     border: 2px solid #1c8889;
      background-color: rgba(255, 255, 255, 0);
      font-family: 'Open Sans', sans-serif;
-     color: #1d4e42;
+     color: #1c8889;
      font-size: 16px;
      font-weight: 600;
      text-align: center;
@@ -2971,7 +2969,7 @@
    }
    
    .home.w--current {
-     color: #1d4e42;
+     color: #1c8889;
    }
    
    .nav-link-6 {
@@ -2987,7 +2985,7 @@
    
    .prtfolio {
      font-family: 'Open Sans', sans-serif;
-     color: #1d4e42;
+     color: #1c8889;
      font-size: 18px;
      font-weight: 600;
    }
@@ -3071,6 +3069,10 @@
      height: 100%;
    }
    
+   .text-span {
+     color: #1c8889;
+   }
+   
    .link-block {
      display: -webkit-box;
      display: -webkit-flex;
@@ -3105,6 +3107,14 @@
      -ms-flex-align: center;
      align-items: center;
      text-decoration: none;
+   }
+   
+   .linkedin-2 {
+     margin-right: 20px;
+   }
+   
+   .facbook-2 {
+     margin-right: 20px;
    }
    
    @media screen and (max-width: 991px) {
@@ -4637,6 +4647,16 @@
      .div-block-99 {
        padding-right: 40px;
        padding-left: 40px;
+     }
+   
+     .linkedin-2 {
+       max-width: 50%;
+       margin-right: 10px;
+     }
+   
+     .facbook-2 {
+       max-width: 50%;
+       margin-right: 10px;
      }
    }
    
