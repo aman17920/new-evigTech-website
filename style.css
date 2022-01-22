@@ -1,4 +1,4 @@
-/* Generated on: Thu Jan 13 2022 11:38:03 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sat Jan 22 2022 06:14:06 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -160,6 +160,8 @@
      background-color: #e8f1ef;
      color: rgba(51, 51, 51, 0);
      font-size: 45px;
+     background-clip: border-box;
+     -webkit-text-fill-color: inherit;
    }
    
    .evigh {
@@ -1722,7 +1724,7 @@
      display: -ms-flexbox;
      display: flex;
      margin: 60px 0px;
-     padding: 40px 100px 40px 40px;
+     padding: 40px 60px;
      -webkit-box-orient: horizontal;
      -webkit-box-direction: normal;
      -webkit-flex-direction: row;
@@ -1773,9 +1775,7 @@
    
    .requested-button {
      padding: 13px 25px;
-     border-style: solid;
-     border-width: 1px;
-     border-color: #1c88a2;
+     border: 1px solid #1c8889;
      background-color: rgba(56, 152, 236, 0);
      font-family: 'Open Sans', sans-serif;
      color: #1c8889;
@@ -1816,7 +1816,7 @@
    .information-technologies {
      margin-top: 0px;
      font-family: 'Open Sans', sans-serif;
-     color: #1e8a90;
+     color: #1c8889;
      font-size: 20px;
      font-weight: 700;
      text-align: center;
@@ -1828,8 +1828,8 @@
    }
    
    .all-services {
-     margin-right: 40px;
-     margin-left: 40px;
+     margin-right: 60px;
+     margin-left: 60px;
      grid-column-gap: 32px;
      grid-row-gap: 42px;
      -ms-grid-columns: auto auto auto;
@@ -1844,7 +1844,7 @@
      display: -ms-flexbox;
      display: flex;
      width: auto;
-     height: 278px;
+     height: 100%;
      padding: 26px 20px 20px;
      -webkit-box-align: start;
      -webkit-align-items: flex-start;
@@ -1857,13 +1857,13 @@
    .services-h {
      margin-top: 0px;
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 28px;
    }
    
    .services-p {
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 14px;
      line-height: 30px;
      font-weight: 600;
@@ -1900,7 +1900,7 @@
      margin-right: 60px;
      padding: 40px 40px 180px;
      border-radius: 10px;
-     background-color: #c1d1cc;
+     background-color: #c1d1ce;
      box-shadow: 1px 1px 18px 5px #adaeb1;
    }
    
@@ -1910,7 +1910,7 @@
    
    .working-process-text {
      margin-top: 0px;
-     color: #214e41;
+     color: #1c8889;
      font-size: 16px;
    }
    
@@ -1928,7 +1928,7 @@
      margin-top: 20px;
      margin-bottom: 40px;
      font-family: Lato, sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 30px;
    }
    
@@ -1955,7 +1955,7 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-color: #214e41;
+     background-color: #1c8889;
      font-family: 'Open Sans', sans-serif;
      font-size: 16px;
      font-weight: 600;
@@ -1964,14 +1964,14 @@
    
    .bold-text-12 {
      font-family: Lato, sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 21px;
      font-weight: 700;
    }
    
    .process-p {
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 15px;
      line-height: 26px;
      font-weight: 600;
@@ -2272,8 +2272,8 @@
    .footer {
      margin-top: 54px;
      padding: 27px 67px;
-     background-color: #214e41;
-     color: #214e41;
+     background-color: #1c8889;
+     color: #1c8889;
    }
    
    .grid-16 {
@@ -2385,15 +2385,18 @@
      padding-top: 20px;
      padding-bottom: 20px;
      padding-left: 67px;
+     background-color: #197172;
      font-family: 'Open Sans', sans-serif;
+     color: #d8d8d8;
      font-size: 17px;
      font-weight: 600;
      text-align: left;
    }
    
    .bold-text-23 {
-     color: #96aea6;
+     color: #96aaae;
      font-weight: 600;
+     text-align: left;
    }
    
    .slide-nav-2 {
@@ -2440,6 +2443,8 @@
    .div-block-82 {
      display: -ms-grid;
      display: grid;
+     padding-right: 60px;
+     padding-left: 60px;
      grid-auto-columns: 1fr;
      grid-column-gap: 16px;
      grid-row-gap: 16px;
@@ -2447,7 +2452,7 @@
      grid-template-columns: 1fr 1fr;
      -ms-grid-rows: auto;
      grid-template-rows: auto;
-     background-color: transparent;
+     background-color: #e8f1ef;
    }
    
    .top-text-09 {
@@ -2459,7 +2464,7 @@
    }
    
    .bold-text-26 {
-     color: #214e41;
+     color: #1c8889;
      font-size: 27px;
      font-weight: 600;
      text-align: left;
@@ -2471,7 +2476,7 @@
    
    .startups-h {
      font-family: Lato, sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 40px;
      line-height: 45px;
      text-align: left;
@@ -2491,7 +2496,7 @@
    }
    
    .evig {
-     margin: 20px 68px 54px;
+     margin: 20px 60px 54px;
      grid-column-gap: 41px;
      -ms-grid-rows: auto;
      grid-template-rows: auto;
@@ -2499,7 +2504,7 @@
    
    .heading-83 {
      font-family: Lato, sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 45px;
      line-height: 51px;
      text-align: left;
@@ -2513,13 +2518,13 @@
    }
    
    .bold-text-27 {
-     color: #214e41;
+     color: #1c8889;
      font-weight: 600;
    }
    
    .description {
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 16px;
      line-height: 23px;
      font-weight: 600;
@@ -2529,7 +2534,7 @@
    .client-trust {
      margin-top: 10px;
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 16px;
      font-weight: 600;
      text-align: left;
@@ -2537,7 +2542,7 @@
    
    .p {
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 17px;
      text-align: left;
    }
@@ -2581,7 +2586,7 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-color: #214e41;
+     background-color: #1c8889;
      font-family: 'Open Sans', sans-serif;
      font-size: 16px;
      font-weight: 600;
@@ -2598,6 +2603,8 @@
    }
    
    .more-about {
+     margin-right: 60px;
+     margin-left: 60px;
      -ms-grid-columns: 0.75fr 1fr;
      grid-template-columns: 0.75fr 1fr;
      -ms-grid-rows: auto;
@@ -2626,14 +2633,14 @@
    
    .more-about-us-h {
      font-family: Lato, sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 45px;
      text-align: left;
    }
    
    .business-and-startup {
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 16px;
      font-weight: 600;
      text-align: left;
@@ -2649,13 +2656,14 @@
    }
    
    .complete-transparency {
-     color: #214e41;
+     color: #1c8889;
      font-weight: 600;
    }
    
    .list {
      padding-right: 20px;
      padding-left: 20px;
+     color: #1c8889;
    }
    
    .div-block-89 {
@@ -2724,8 +2732,8 @@
    }
    
    .grid-20 {
-     margin-right: 69px;
-     margin-left: 69px;
+     margin-right: 60px;
+     margin-left: 60px;
      grid-column-gap: 69px;
      -ms-grid-columns: 1fr 1fr 1fr;
      grid-template-columns: 1fr 1fr 1fr;
@@ -2743,7 +2751,7 @@
    
    .our-text {
      font-family: Lato, sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-weight: 700;
      text-align: left;
    }
@@ -2756,7 +2764,7 @@
    
    .our-p {
      font-family: 'Open Sans', sans-serif;
-     color: #404e41;
+     color: #1c8889;
      font-weight: 600;
      text-align: left;
    }
@@ -2767,13 +2775,13 @@
      padding-top: 0px;
      padding-right: 59px;
      padding-bottom: 0px;
-     border-right: 2px solid #214e41;
+     border-right: 2px solid #1c8889;
    }
    
    .our-company {
      margin-top: 81px;
      margin-bottom: 54px;
-     background-color: #c1d1cc;
+     background-color: #b7cece;
    }
    
    .heading-93 {
@@ -2874,7 +2882,7 @@
    
    .technologies-text {
      font-family: Lato, sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 45px;
    }
    
@@ -2888,12 +2896,13 @@
    }
    
    .bold-text-32 {
+     color: #1c8889;
      font-weight: 600;
    }
    
    .top-2 {
-     margin-right: 40px;
-     margin-left: 40px;
+     margin-right: 60px;
+     margin-left: 60px;
      padding-top: 20px;
      padding-bottom: 20px;
      justify-items: center;
@@ -2969,7 +2978,7 @@
    }
    
    .home.w--current {
-     color: #1c8889;
+     color: #1d4e42;
    }
    
    .nav-link-6 {
@@ -3005,7 +3014,7 @@
    }
    
    .list-item {
-     color: #214e41;
+     color: #1c8889;
    }
    
    .about-copmay {
@@ -3038,11 +3047,11 @@
    }
    
    .list-item-2 {
-     color: #214e41;
+     color: #1c8889;
    }
    
    .list-item-3 {
-     color: #214e41;
+     color: #1c8889;
    }
    
    .brand {
@@ -3115,6 +3124,11 @@
    
    .facbook-2 {
      margin-right: 20px;
+   }
+   
+   .heading-94 {
+     color: #65b69f;
+     font-size: 100px;
    }
    
    @media screen and (max-width: 991px) {
@@ -4602,7 +4616,7 @@
        -webkit-align-items: center;
        -ms-flex-align: center;
        align-items: center;
-       background-color: rgba(39, 95, 82, 0.99);
+       background-color: #1c8889;
      }
    
      .button--contact-us {

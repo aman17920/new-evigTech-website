@@ -1,4 +1,4 @@
-/* Generated on: Thu Jan 13 2022 08:15:40 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sat Jan 22 2022 06:49:01 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1661,6 +1661,7 @@
    
    .heading-21 {
      font-family: 'Open Sans', sans-serif;
+     font-size: 24px;
    }
    
    .heading-22 {
@@ -1669,13 +1670,13 @@
    
    .bold-text-2 {
      font-family: Lato, sans-serif;
-     color: #1d4e42;
+     color: #1c8a8c;
      font-weight: 600;
    }
    
    .bold-text-3 {
-     color: #1d4e42;
-     font-size: 25px;
+     color: #1c8a8c;
+     font-size: 37px;
    }
    
    .heading-23 {
@@ -1684,7 +1685,7 @@
    }
    
    .bold-text-4 {
-     color: #1d4e42;
+     color: #1c8a8c;
    }
    
    .heading-24 {
@@ -1693,7 +1694,7 @@
    }
    
    .bold-text-5 {
-     color: #1d4e42;
+     color: #1c8a8c;
      font-weight: 600;
    }
    
@@ -1701,7 +1702,7 @@
      margin-top: 20px;
      margin-bottom: 20px;
      font-family: 'Open Sans', sans-serif;
-     color: #1d4e42;
+     color: #1c8a8c;
      font-size: 20px;
      line-height: 29px;
      font-weight: 600;
@@ -1711,7 +1712,7 @@
      height: 60px;
      margin-bottom: 20px;
      border: 0px solid #000;
-     background-color: #e8f1ef;
+     background-color: #e8f0f1;
      font-family: 'Open Sans', sans-serif;
      color: #000;
      font-size: 16px;
@@ -1722,7 +1723,7 @@
      height: 60px;
      margin-bottom: 20px;
      border: 0px solid #000;
-     background-color: #e8f1ef;
+     background-color: #e8f0f1;
      font-family: 'Open Sans', sans-serif;
      color: #000;
      font-weight: 600;
@@ -1738,7 +1739,7 @@
    
    .textarea {
      border: 0px solid #000;
-     background-color: #e8f1ef;
+     background-color: #e8f0f1;
      color: #000;
    }
    
@@ -1750,7 +1751,7 @@
    .submit-button-2 {
      width: 142px;
      height: 40px;
-     background-color: #1d4e42;
+     background-color: #1c8a8c;
    }
    
    .form-block {
@@ -1790,7 +1791,7 @@
    }
    
    .bold-text-6 {
-     color: #1d4e42;
+     color: #1c8a8c;
      font-size: 16px;
      font-weight: 600;
    }
@@ -1869,6 +1870,7 @@
      padding-top: 20px;
      padding-bottom: 20px;
      padding-left: 67px;
+     background-color: #197172;
      font-family: 'Open Sans', sans-serif;
      font-size: 17px;
      font-weight: 600;
@@ -2089,6 +2091,86 @@
      text-decoration: none;
    }
    
+   .text-span-6 {
+     color: #1c8889;
+   }
+   
+   .prtfolio-4 {
+     font-family: 'Open Sans', sans-serif;
+     color: #1c8889;
+     font-size: 18px;
+     font-weight: 600;
+   }
+   
+   .home-3 {
+     font-family: 'Open Sans', sans-serif;
+     color: #1c8a8c;
+     font-size: 16px;
+     font-weight: 600;
+   }
+   
+   .home-3.w--current {
+     color: #1d4e42;
+   }
+   
+   .button--contact-us-4 {
+     display: -webkit-box;
+     display: -webkit-flex;
+     display: -ms-flexbox;
+     display: flex;
+     width: 149px;
+     height: 47px;
+     -webkit-box-orient: vertical;
+     -webkit-box-direction: normal;
+     -webkit-flex-direction: column;
+     -ms-flex-direction: column;
+     flex-direction: column;
+     -webkit-box-pack: center;
+     -webkit-justify-content: center;
+     -ms-flex-pack: center;
+     justify-content: center;
+     -webkit-box-align: center;
+     -webkit-align-items: center;
+     -ms-flex-align: center;
+     align-items: center;
+     border: 2px solid #1c8889;
+     background-color: rgba(255, 255, 255, 0);
+     font-family: 'Open Sans', sans-serif;
+     color: #1c8889;
+     font-size: 16px;
+     font-weight: 600;
+     text-align: center;
+   }
+   
+   .footer-4 {
+     margin-top: 54px;
+     padding: 27px 67px;
+     background-color: #1c8889;
+     color: #1c8889;
+   }
+   
+   .about-the--company-text-3 {
+     margin-top: 40px;
+     margin-bottom: 0px;
+     font-family: 'Open Sans', sans-serif;
+     color: #fff;
+     font-size: 18px;
+     line-height: 30px;
+     font-weight: 600;
+     text-align: left;
+   }
+   
+   .bold-text-39 {
+     font-size: 18px;
+     font-weight: 600;
+     text-align: left;
+   }
+   
+   .bold-text-31 {
+     font-size: 18px;
+     font-weight: 600;
+   }
+   
    @media screen and (max-width: 991px) {
      .manu-button {
        color: #fff;
@@ -2117,6 +2199,10 @@
    
      .grid-16 {
        grid-column-gap: 14px;
+     }
+   
+     .icon-11 {
+       color: #0e2721;
      }
    }
    
@@ -2557,7 +2643,7 @@
        -webkit-align-items: center;
        -ms-flex-align: center;
        align-items: center;
-       background-color: rgba(39, 95, 82, 0.99);
+       background-color: #1c8a8c;
      }
    
      .prtfolio {
@@ -2826,6 +2912,53 @@
        line-height: 16px;
        font-weight: 600;
      }
+   
+     .text-span-6 {
+       color: #f8f8f8;
+     }
+   
+     .prtfolio-4 {
+       color: #fff;
+     }
+   
+     .icon-11 {
+       color: #1c8a8c;
+     }
+   
+     .home-3 {
+       color: #fff;
+     }
+   
+     .button--contact-us-4 {
+       display: -webkit-box;
+       display: -webkit-flex;
+       display: -ms-flexbox;
+       display: flex;
+       margin-left: 20px;
+       border-color: #fff;
+       color: #fff;
+     }
+   
+     .footer-4 {
+       padding: 20px 14px 0px;
+     }
+   
+     .about-the--company-text-3 {
+       margin-top: 5px;
+       font-size: 34px;
+       line-height: 6px;
+       font-weight: 600;
+       text-align: left;
+     }
+   
+     .bold-text-39 {
+       font-size: 9px;
+       line-height: 2px;
+     }
+   
+     .bold-text-31 {
+       font-size: 8px;
+     }
    }
    
    #w-node-e5de6068-6bd0-61a8-9dd5-f0eafeb3ac4f-cb1b350a {
@@ -2835,18 +2968,18 @@
      align-self: center;
    }
    
-   #w-node-_9c960306-b046-e4ab-54a7-8a42797239ff-cb1b350a {
+   #w-node-c5e2b19d-65b1-e3b0-d7c8-77f58a32129d-cb1b350a {
      -ms-grid-column-align: start;
      justify-self: start;
    }
    
-   #w-node-_9c960306-b046-e4ab-54a7-8a4279723a06-cb1b350a {
+   #w-node-c5e2b19d-65b1-e3b0-d7c8-77f58a3212a4-cb1b350a {
      -ms-grid-column-align: start;
      justify-self: start;
    }
    
    @media screen and (max-width: 479px) {
-     #w-node-_9c960306-b046-e4ab-54a7-8a42797239ff-cb1b350a {
+     #w-node-c5e2b19d-65b1-e3b0-d7c8-77f58a32129d-cb1b350a {
        -ms-grid-row: span 1;
        grid-row-start: span 1;
        -ms-grid-row-span: 1;

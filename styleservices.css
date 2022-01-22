@@ -1,4 +1,4 @@
-/* Generated on: Thu Jan 13 2022 08:03:37 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sat Jan 22 2022 06:38:28 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1160,7 +1160,7 @@
      display: -ms-grid;
      display: grid;
      margin-top: 20px;
-     padding: 40px;
+     padding: 20px 60px;
      grid-auto-columns: 1fr;
      grid-column-gap: 16px;
      grid-row-gap: 16px;
@@ -1168,6 +1168,7 @@
      grid-template-columns: 1fr 1fr;
      -ms-grid-rows: auto;
      grid-template-rows: auto;
+     background-color: #e8f1ef;
    }
    
    .ech-partner {
@@ -1177,7 +1178,7 @@
    }
    
    .bold-text-10 {
-     color: #214e41;
+     color: #1c8a8c;
      font-weight: 600;
    }
    
@@ -1185,7 +1186,7 @@
      padding-right: 10px;
      padding-left: 0px;
      font-family: Lato, sans-serif;
-     color: #214e41;
+     color: #1c8a8c;
      font-size: 37px;
      line-height: 41px;
      text-align: left;
@@ -1198,7 +1199,7 @@
    
    .we-offer {
      margin-top: 40px;
-     padding: 40px 60px 40px 100px;
+     padding: 40px 0px;
      background-image: url("https://uploads-ssl.webflow.com/6188f46a0941cd0a9d89b9b3/61d56747d658a9ecc61b5e9a_4858794-scaled.jpg");
      background-position: 0px 0px;
      background-size: auto;
@@ -1220,7 +1221,7 @@
    }
    
    .bold-text-11 {
-     color: #1d4e42;
+     color: #1c8a8c;
    }
    
    .all-services {
@@ -1235,7 +1236,7 @@
      margin-top: 26px;
      margin-bottom: 0px;
      font-family: 'Open Sans', sans-serif;
-     color: #1e4f41;
+     color: #1c8a8c;
      font-size: 18px;
      line-height: 22px;
      font-weight: 700;
@@ -1253,7 +1254,7 @@
    }
    
    .bold-text-12 {
-     color: #1e4f41;
+     color: #1c8a8c;
      line-height: 18px;
      font-weight: 400;
    }
@@ -1778,7 +1779,7 @@
    
    .bold-text-28 {
      font-family: Lato, sans-serif;
-     color: #214e41;
+     color: #1c8889;
    }
    
    .paragraph-12 {
@@ -1786,14 +1787,14 @@
    }
    
    .text {
-     color: #214e41;
+     color: #1c8889;
      font-weight: 600;
    }
    
    .helline-text {
      margin-bottom: 0px;
      font-family: 'Open Sans', sans-serif;
-     color: #214e41;
+     color: #1c8889;
      font-size: 16px;
      font-weight: 600;
    }
@@ -1818,6 +1819,7 @@
    }
    
    .phone-no-h {
+     color: #1c8889;
      font-weight: 400;
    }
    
@@ -1947,7 +1949,7 @@
    }
    
    .bold-text-31 {
-     font-size: 17px;
+     font-size: 18px;
      font-weight: 600;
    }
    
@@ -2030,6 +2032,7 @@
    
    .bold-text-32 {
      font-family: Lato, sans-serif;
+     color: #1c8a8c;
    }
    
    .home-2 {
@@ -2150,7 +2153,7 @@
      padding-top: 20px;
      padding-bottom: 20px;
      padding-left: 67px;
-     background-color: #003023;
+     background-color: #197172;
      font-family: 'Open Sans', sans-serif;
      font-size: 17px;
      font-weight: 600;
@@ -2165,14 +2168,19 @@
      display: -ms-grid;
      display: grid;
      padding-right: 60px;
-     padding-left: 40px;
+     padding-left: 60px;
+     -webkit-box-align: center;
+     -webkit-align-items: center;
+     -ms-flex-align: center;
+     align-items: center;
      grid-auto-columns: 1fr;
      grid-column-gap: 16px;
      grid-row-gap: 16px;
      -ms-grid-columns: 1fr 1fr;
      grid-template-columns: 1fr 1fr;
-     -ms-grid-rows: auto;
-     grid-template-rows: auto;
+     -ms-grid-rows: 444px;
+     grid-template-rows: 444px;
+     background-color: #e8f1ef;
    }
    
    .heading-83 {
@@ -2181,13 +2189,13 @@
    }
    
    .bold-text-34 {
-     color: #1d4e42;
+     color: #1c8a8c;
      font-size: 32px;
      font-weight: 400;
    }
    
    .bold-text-35 {
-     color: #1d4e42;
+     color: #1c8a8c;
      font-size: 40px;
      line-height: 44px;
    }
@@ -2201,7 +2209,7 @@
    }
    
    .bold-text-36 {
-     color: #1d4e42;
+     color: #1c8a8c;
    }
    
    .div-block-109 {
@@ -2221,18 +2229,18 @@
      grid-template-rows: auto;
      border-style: solid;
      border-width: 0px 0px 2px;
-     border-color: #1d4e42;
+     border-color: #1d4e42 #1d4e42 #1c8889;
    }
    
    .heading-85 {
      font-family: Lato, sans-serif;
-     color: #1d4e42;
+     color: #1c8a8c;
      text-align: left;
    }
    
    .paragraph-13 {
      font-family: 'Open Sans', sans-serif;
-     color: #1d4e42;
+     color: #1c8a8c;
      font-size: 20px;
      line-height: 25px;
      font-weight: 600;
@@ -2261,7 +2269,7 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-color: #1d4e42;
+     background-color: #1c8a8c;
      font-family: 'Open Sans', sans-serif;
      font-size: 16px;
      font-weight: 600;
@@ -2304,7 +2312,7 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-color: #1d4e42;
+     background-color: #1c8a8c;
      font-family: 'Open Sans', sans-serif;
      font-size: 16px;
      font-weight: 600;
@@ -2330,7 +2338,7 @@
      -webkit-align-items: center;
      -ms-flex-align: center;
      align-items: center;
-     background-color: #1d4e42;
+     background-color: #1c8a8c;
      font-family: 'Open Sans', sans-serif;
      font-size: 16px;
      font-weight: 600;
@@ -2357,7 +2365,7 @@
    
    .prtfolio-3 {
      font-family: 'Open Sans', sans-serif;
-     color: #1d4e42;
+     color: #1c8a8c;
      font-size: 18px;
      font-weight: 600;
    }
@@ -2395,7 +2403,7 @@
    
    .home-3 {
      font-family: 'Open Sans', sans-serif;
-     color: #1d4e42;
+     color: #1c8a8c;
      font-size: 16px;
      font-weight: 600;
    }
@@ -2431,7 +2439,7 @@
    
    .bold-text-37 {
      font-size: 18px;
-     font-weight: 400;
+     font-weight: 600;
      text-align: left;
    }
    
@@ -2442,7 +2450,7 @@
      color: #fff;
      font-size: 20px;
      line-height: 30px;
-     font-weight: 300;
+     font-weight: 600;
      text-align: left;
    }
    
@@ -2457,7 +2465,7 @@
    }
    
    .bold-text-38 {
-     font-size: 21px;
+     font-size: 18px;
      font-weight: 600;
      text-align: left;
    }
@@ -2492,6 +2500,7 @@
      padding-top: 20px;
      padding-bottom: 20px;
      padding-left: 67px;
+     background-color: #197172;
      font-family: 'Open Sans', sans-serif;
      font-size: 17px;
      font-weight: 600;
@@ -2510,6 +2519,151 @@
      width: auto;
      margin-bottom: 35px;
      border-bottom: 1px solid #fff;
+   }
+   
+   .linkedin-3 {
+     margin-right: 20px;
+   }
+   
+   .facbook-3 {
+     margin-right: 20px;
+   }
+   
+   .text-span-6 {
+     color: #1c8889;
+   }
+   
+   .button--contact-us-4 {
+     display: -webkit-box;
+     display: -webkit-flex;
+     display: -ms-flexbox;
+     display: flex;
+     width: 149px;
+     height: 47px;
+     -webkit-box-orient: vertical;
+     -webkit-box-direction: normal;
+     -webkit-flex-direction: column;
+     -ms-flex-direction: column;
+     flex-direction: column;
+     -webkit-box-pack: center;
+     -webkit-justify-content: center;
+     -ms-flex-pack: center;
+     justify-content: center;
+     -webkit-box-align: center;
+     -webkit-align-items: center;
+     -ms-flex-align: center;
+     align-items: center;
+     border: 2px solid #1c8889;
+     background-color: rgba(255, 255, 255, 0);
+     font-family: 'Open Sans', sans-serif;
+     color: #1c8889;
+     font-size: 16px;
+     font-weight: 600;
+     text-align: center;
+   }
+   
+   .prtfolio-4 {
+     font-family: 'Open Sans', sans-serif;
+     color: #1c8889;
+     font-size: 18px;
+     font-weight: 600;
+   }
+   
+   .all-services-2 {
+     margin-top: 20px;
+     margin-right: 60px;
+     margin-left: 60px;
+     -webkit-box-pack: center;
+     -webkit-justify-content: center;
+     -ms-flex-pack: center;
+     justify-content: center;
+     justify-items: center;
+     -webkit-box-align: center;
+     -webkit-align-items: center;
+     -ms-flex-align: center;
+     align-items: center;
+     grid-column-gap: 50px;
+     grid-row-gap: 50px;
+     -ms-grid-columns: 419px 419px 419px;
+     grid-template-columns: 419px 419px 419px;
+     -ms-grid-rows: auto auto;
+     grid-template-rows: auto auto;
+   }
+   
+   .services-2 {
+     display: -webkit-box;
+     display: -webkit-flex;
+     display: -ms-flexbox;
+     display: flex;
+     width: auto;
+     height: 100%;
+     padding: 26px 20px 20px;
+     -webkit-box-orient: vertical;
+     -webkit-box-direction: normal;
+     -webkit-flex-direction: column;
+     -ms-flex-direction: column;
+     flex-direction: column;
+     -webkit-box-align: center;
+     -webkit-align-items: center;
+     -ms-flex-align: center;
+     align-items: center;
+     border-radius: 10px;
+     background-color: #fff;
+     box-shadow: 1px 1px 12px 1px rgba(0, 0, 0, 0.2);
+   }
+   
+   .web-icon {
+     margin-right: 15px;
+   }
+   
+   .services-h-2 {
+     margin-top: 0px;
+     font-family: 'Open Sans', sans-serif;
+     color: #1c8889;
+     font-size: 28px;
+     text-align: center;
+   }
+   
+   .services-p {
+     font-family: 'Open Sans', sans-serif;
+     color: #1c8889;
+     font-size: 14px;
+     line-height: 30px;
+     font-weight: 600;
+     text-align: center;
+   }
+   
+   .bold-text-39 {
+     font-size: 14px;
+     font-weight: 600;
+   }
+   
+   .bold-text-40 {
+     font-weight: 600;
+   }
+   
+   .bold-text-41 {
+     font-size: 18px;
+     font-weight: 400;
+     text-align: left;
+   }
+   
+   .footer-4 {
+     margin-top: 54px;
+     padding: 27px 67px;
+     background-color: #1c8889;
+     color: #1c8889;
+   }
+   
+   .about-the--company-text-3 {
+     margin-top: 40px;
+     margin-bottom: 0px;
+     font-family: 'Open Sans', sans-serif;
+     color: #fff;
+     font-size: 18px;
+     line-height: 30px;
+     font-weight: 600;
+     text-align: left;
    }
    
    @media screen and (max-width: 991px) {
@@ -2540,6 +2694,17 @@
    
      .icon-10 {
        color: #fff;
+     }
+   
+     .icon-11 {
+       color: #0e2721;
+     }
+   
+     .all-services-2 {
+       -ms-grid-columns: auto auto;
+       grid-template-columns: auto auto;
+       -ms-grid-rows: auto auto auto;
+       grid-template-rows: auto auto auto;
      }
    }
    
@@ -3019,7 +3184,7 @@
        -webkit-align-items: center;
        -ms-flex-align: center;
        align-items: center;
-       background-color: rgba(39, 95, 82, 0.99);
+       background-color: #1c8889;
      }
    
      .home {
@@ -3388,6 +3553,90 @@
        -ms-flex-align: center;
        align-items: center;
      }
+   
+     .linkedin-3 {
+       max-width: 50%;
+       margin-right: 10px;
+     }
+   
+     .facbook-3 {
+       max-width: 50%;
+       margin-right: 10px;
+     }
+   
+     .text-span-6 {
+       color: #f8f8f8;
+     }
+   
+     .icon-11 {
+       color: #1c8a8c;
+     }
+   
+     .button--contact-us-4 {
+       display: -webkit-box;
+       display: -webkit-flex;
+       display: -ms-flexbox;
+       display: flex;
+       margin-left: 20px;
+       border-color: #fff;
+       color: #fff;
+     }
+   
+     .prtfolio-4 {
+       color: #fff;
+     }
+   
+     .all-services-2 {
+       margin-right: 20px;
+       margin-left: 20px;
+       -ms-grid-columns: 1fr;
+       grid-template-columns: 1fr;
+       -ms-grid-rows: auto auto auto auto auto auto;
+       grid-template-rows: auto auto auto auto auto auto;
+     }
+   
+     .services-2 {
+       height: auto;
+       padding: 20px;
+       -webkit-box-orient: vertical;
+       -webkit-box-direction: normal;
+       -webkit-flex-direction: column;
+       -ms-flex-direction: column;
+       flex-direction: column;
+       -webkit-box-align: center;
+       -webkit-align-items: center;
+       -ms-flex-align: center;
+       align-items: center;
+     }
+   
+     .services-h-2 {
+       font-size: 20px;
+       text-align: center;
+     }
+   
+     .services-p {
+       font-size: 14px;
+       line-height: 23px;
+       text-align: center;
+     }
+   
+     .bold-text-41 {
+       font-size: 8px;
+       line-height: 10px;
+       font-weight: 600;
+     }
+   
+     .footer-4 {
+       padding: 20px 14px 0px;
+     }
+   
+     .about-the--company-text-3 {
+       margin-top: 5px;
+       font-size: 34px;
+       line-height: 6px;
+       font-weight: 600;
+       text-align: left;
+     }
    }
    
    #w-node-_712c8464-6740-0adb-fb84-3d7d5d43ec86-4989b9b4 {
@@ -3399,28 +3648,17 @@
      align-self: center;
    }
    
-   #w-node-_901b0b33-fd99-d8ff-8dde-c9547523fd48-4989b9b4 {
-     -ms-grid-column: 1;
-     grid-column-start: 1;
-     -ms-grid-column-span: 1;
-     grid-column-end: 2;
-     -ms-grid-row: 1;
-     grid-row-start: 1;
-     -ms-grid-row-span: 1;
-     grid-row-end: 2;
-   }
-   
    #w-node-_20964fc1-8f98-0cac-c8c7-178df8c64ea0-4989b9b4 {
      -ms-grid-column-align: center;
      justify-self: center;
    }
    
-   #w-node-_2361305a-f271-0b67-81b6-7585d9d3a2ea-4989b9b4 {
+   #w-node-b05577c4-f6f1-f4e7-372a-7b97cf7bd98e-4989b9b4 {
      -ms-grid-column-align: start;
      justify-self: start;
    }
    
-   #w-node-_2361305a-f271-0b67-81b6-7585d9d3a2f1-4989b9b4 {
+   #w-node-b05577c4-f6f1-f4e7-372a-7b97cf7bd995-4989b9b4 {
      -ms-grid-column-align: start;
      justify-self: start;
    }
@@ -3487,18 +3725,18 @@
      align-self: center;
    }
    
-   #w-node-_44a232ef-9b0b-0c60-5dd5-dff33827b6d2-235aaa13 {
+   #w-node-bf41bea8-1260-f1f7-5ddd-31a4f41537a0-235aaa13 {
      -ms-grid-column-align: start;
      justify-self: start;
    }
    
-   #w-node-_44a232ef-9b0b-0c60-5dd5-dff33827b6d9-235aaa13 {
+   #w-node-bf41bea8-1260-f1f7-5ddd-31a4f41537a7-235aaa13 {
      -ms-grid-column-align: start;
      justify-self: start;
    }
    
    @media screen and (max-width: 479px) {
-     #w-node-_2361305a-f271-0b67-81b6-7585d9d3a2ea-4989b9b4 {
+     #w-node-b05577c4-f6f1-f4e7-372a-7b97cf7bd98e-4989b9b4 {
        -ms-grid-row: span 1;
        grid-row-start: span 1;
        -ms-grid-row-span: 1;
@@ -3541,7 +3779,7 @@
        justify-self: center;
      }
    
-     #w-node-_44a232ef-9b0b-0c60-5dd5-dff33827b6d2-235aaa13 {
+     #w-node-bf41bea8-1260-f1f7-5ddd-31a4f41537a0-235aaa13 {
        -ms-grid-row: span 1;
        grid-row-start: span 1;
        -ms-grid-row-span: 1;
