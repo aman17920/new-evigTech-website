@@ -120,7 +120,10 @@
      align-items: flex-start;
      color: #fcfcfc;
    }
-   
+   .companyc{
+    text-decoration: none;
+  }
+ 
    .sticky-nav {
      position: -webkit-sticky;
      position: sticky;
@@ -255,7 +258,10 @@
      align-items: flex-start;
      color: #f8f8f8;
    }
-   
+   .aboutc{
+    display: flex;
+    flex-direction: column;
+  }
    .button {
      display: -webkit-box;
      display: -webkit-flex;
@@ -2950,7 +2956,10 @@
        font-weight: 600;
        text-align: left;
      }
-   
+   .companyc{
+     text-decoration: none;
+   }
+  
      .bold-text-39 {
        font-size: 9px;
        line-height: 2px;

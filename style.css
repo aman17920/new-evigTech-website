@@ -64,6 +64,13 @@
      -ms-flex: 1;
      flex: 1;
    }
+   .companyc{
+    text-decoration: none;
+  }
+  .aboutc{
+    display: flex;
+    flex-direction: column;
+  }
    
    .company-name-block {
      padding-left: 12px;
@@ -2323,6 +2330,7 @@
      font-size: 18px;
      font-weight: 600;
      text-align: left;
+     text-decoration: none;
    }
    
    .phone-no {
@@ -3873,6 +3881,7 @@
      .company-66 {
        margin-bottom: 1px;
        font-size: 8px;
+       text-decoration: none;
      }
    
      .phone-no {
