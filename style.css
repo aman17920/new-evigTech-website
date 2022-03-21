@@ -3718,6 +3718,8 @@ textarea.w-select {
 }
 
 .our-service-h {
+   font-size: 22px;
+  margin-bottom: 35px;
   font-family: Lato, sans-serif;
   color: #1c8889;
   font-size: 42px;
@@ -4246,11 +4248,11 @@ textarea.w-select {
 
 .company-66 {
   margin-top: 0px;
-  margin-bottom: 14px;
+  margin-bottom: 15px;
   font-family: "Open Sans", sans-serif;
   color: #fff;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 400;
   text-align: left;
   text-decoration: none;
 }
@@ -4261,8 +4263,8 @@ textarea.w-select {
   margin-left: 10px;
   font-family: "Open Sans", sans-serif;
   color: #fff;
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 15px;
+  font-weight: 400;
   text-align: left;
   text-decoration: none;
   text-transform: none;
@@ -4925,7 +4927,7 @@ textarea.w-select {
 .prtfolio {
   font-family: "Open Sans", sans-serif;
   color: #1c8889;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
 }
 
@@ -5538,9 +5540,7 @@ textarea.w-select {
     align-items: flex-start;
   }
 
-  .our-service-h {
-    font-size: 22px;
-  }
+  
 
   .dervies-form {
     margin-top: 10px;
@@ -5803,6 +5803,7 @@ textarea.w-select {
   .company-66 {
     margin-bottom: 1px;
     font-size: 8px;
+    font-weight: 400;
     text-decoration: none;
   }
 
