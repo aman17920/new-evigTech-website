@@ -34,7 +34,9 @@
      background-position: 50% 50%;
      background-size: cover;
    }
-   
+   .w-nav-link.w--current{
+    color: #222222;
+   }
    .navbar {
      padding-bottom: 250px;
      border-radius: 20px;
@@ -2730,6 +2732,15 @@
        font-size: 13px;
        line-height: 0px;
      }
+     
+     .footer-style{
+      display: flex;
+      flex-direction: column;
+    }
+    .footer-style{
+      display: flex;
+      flex-direction: column;
+    }
    .prtfolio{
      color: #fff;
    }
@@ -3101,8 +3112,8 @@
      }
    
      .bold-text-21 {
-       font-size: 10px;
-       line-height: 10px;
+       font-size: 14px;
+       line-height: 20px;
      }
    
      .bold-text-22 {
@@ -3245,7 +3256,7 @@
      }
    
      .bold-text-31 {
-       font-size: 8px;
+       font-size: 12px;
      }
    
      .all-rihts {
@@ -3333,7 +3344,7 @@
      .about-h-2 {
        margin-top: 0px;
        margin-bottom: 8px;
-       font-size: 9px;
+       font-size: 14px;
      }
    
      .all-rihts-2 {
@@ -3499,7 +3510,7 @@
    
      .phone-no-3 {
        margin-left: 8px;
-       font-size: 9px;
+       font-size: 12px;
        line-height: 16px;
        font-weight: 600;
      }

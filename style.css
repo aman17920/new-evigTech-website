@@ -887,6 +887,9 @@ textarea.w-select {
   .w-container {
     max-width: none;
   }
+  .footer-elem{
+    font-size: 12px !important;
+  }
   .w-hidden-main {
     display: inherit !important;
   }
@@ -1732,7 +1735,7 @@ textarea.w-select {
   margin-right: auto;
 }
 .w-nav-link.w--current {
-  color: #0082f3;
+  color: #222222;
 }
 .w-nav-menu {
   position: relative;
@@ -1898,6 +1901,7 @@ textarea.w-select {
     display: block;
   }
 }
+
 .w-ix-emptyfix:after {
   content: "";
 }
@@ -5403,7 +5407,10 @@ textarea.w-select {
   .navbar-light-navbutton:hover {
     background-color: #fff;
   }
-
+.footer-style{
+  display: flex;
+  flex-direction: column;
+}
   .top {
     padding: 10px 40px;
     -webkit-box-pack: center;
@@ -5783,7 +5790,7 @@ textarea.w-select {
   .about-h {
     margin-top: 0px;
     margin-bottom: 8px;
-    font-size: 9px;
+    font-size: 14px;
   }
 
   .about-the--company-text {
@@ -5795,8 +5802,8 @@ textarea.w-select {
   }
 
   .bold-text-21 {
-    font-size: 8px;
-    line-height: 10px;
+    font-size: 14px;
+    line-height: 20px;
     font-weight: 600;
   }
 
@@ -5809,7 +5816,7 @@ textarea.w-select {
 
   .phone-no {
     margin-left: 8px;
-    font-size: 9px;
+    font-size: 12px;
     line-height: 16px;
     font-weight: 600;
   }

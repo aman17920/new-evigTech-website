@@ -2269,12 +2269,17 @@ margin-top: 0px;
   .sticky-nav {
     padding: 0px;
   }
+  .footer-style{
+    display: flex;
+    flex-direction: column;
+  }
+
 .a-77{
 margin-top: 0px;
      margin-bottom: 14px;
      font-family: 'Open Sans', sans-serif;
      color: #fff;
-     font-size: 8px;
+     font-size: 12px;
      font-weight: 400;
      text-decoration: none;
      text-align: left;
@@ -2845,8 +2850,8 @@ margin-top: 0px;
   }
 
   .bold-text-21 {
-    font-size: 10px;
-    line-height: 10px;
+    font-size: 14px;
+    line-height: 20px;
   }
 
   .bold-text-23 {
@@ -2856,7 +2861,7 @@ margin-top: 0px;
   .about-h {
     margin-top: 0px;
     margin-bottom: 8px;
-    font-size: 9px;
+    font-size: 14px;
   }
 
   .div-block-66 {
@@ -2917,7 +2922,7 @@ margin-top: 0px;
 
   .company-66-2 {
     margin-bottom: 1px;
-    font-size: 8px;
+    font-size: 12px ;
   }
 
   .bold-text-38 {
@@ -2927,7 +2932,7 @@ margin-top: 0px;
 
   .phone-no-3 {
     margin-left: px;
-    font-size: 6px;
+    font-size: 12px;
     line-height: 16px;
     font-weight: 600;
   }
@@ -2964,10 +2969,10 @@ margin-top: 0px;
 
   .about-the--company-text-3 {
     margin-top: 5px;
-    font-size: 34px;
-    line-height: 8px;
-    font-size: 6px;
-    font-weight: 400;
+ 
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 600;
     text-align: left;
   }
 
@@ -2977,7 +2982,7 @@ margin-top: 0px;
   }
 
   .bold-text-31 {
-    font-size: 8px;
+    font-size: 12px;
   }
 }
 
