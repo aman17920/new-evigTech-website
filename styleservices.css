@@ -2730,7 +2730,16 @@
        font-size: 13px;
        line-height: 0px;
      }
-   
+   .prtfolio{
+     color: #fff;
+   }
+   .text-span{
+     color: #fff;
+   }
+   .button--contact-us{
+     color: #fff;
+     border-color: #fff;
+   }
      .partnerwith-h {
        line-height: 16px;
      }
@@ -3294,7 +3303,7 @@
      }
    
      .home-2 {
-       color: #ffffff;
+       color: #5d9285;
      }
    
      .button--contact-us-2 {
